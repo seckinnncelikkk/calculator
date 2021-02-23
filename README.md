@@ -10,6 +10,7 @@ output that can be presented in a continuous integration tool like
 [Azure DevOps](https://azure.com/devops).
 
 To build, simply:
+[![Build Status](https://dev.azure.com/seckinnncelikkk/Calculator/_apis/build/status/seckinnncelikkk.calculator?branchName=master)](https://dev.azure.com/seckinnncelikkk/Calculator/_build/latest?definitionId=3&branchName=master)
 
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
